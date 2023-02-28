@@ -23,10 +23,16 @@
         }
     ]
 },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "account":
+{
+    "payload": {
+        "total_balance": 0.0,
+        "customer_name": ""
+    },
+    "meta": {
+        "next_action": "FIRST_TIME_USER_SCREEN"
+    }
+},
   "profile": {
     "name": "typicode"
   }

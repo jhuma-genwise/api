@@ -33,7 +33,13 @@
         "next_action": "FIRST_TIME_USER_SCREEN"
     }
 },
-  "profile": {
-    "name": "typicode"
-  }
+  "sdk": {
+    "payload": {
+        "consent_id": 1,
+        "tracking_id": "3c6f6a252ade4408b88641649e16aadc",
+        "organisation_id": "NDX_P2P_UAT",
+        "mobile": "918826639105",
+        "organisation_bank_code": "SBI"
+    }
+}
 }

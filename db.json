@@ -169,48 +169,6 @@
         "Withdrawal": 100,
         "Balance": 400
       },
-      {
-        "Date": "2023-01-22",
-        "Description": "Deposit",
-        "Deposit": 1000,
-        "Withdrawal": 0,
-        "Balance": 1000
-      },
-      {
-        "Date": "2023-01-23",
-        "Description": "Transfer to savings",
-        "Deposit": 0,
-        "Withdrawal": 500,
-        "Balance": 500
-      },
-      {
-        "Date": "2023-01-24",
-        "Description": "Grocery purchase",
-        "Deposit": 0,
-        "Withdrawal": 100,
-        "Balance": 400
-      },
-      {
-        "Date": "2023-01-25",
-        "Description": "Deposit",
-        "Deposit": 1000,
-        "Withdrawal": 0,
-        "Balance": 1000
-      },
-      {
-        "Date": "2023-01-26",
-        "Description": "Transfer to savings",
-        "Deposit": 0,
-        "Withdrawal": 500,
-        "Balance": 500
-      },
-      {
-        "Date": "2023-01-27",
-        "Description": "Grocery purchase",
-        "Deposit": 0,
-        "Withdrawal": 100,
-        "Balance": 400
-      },
     ]
   },
   "txn": {
@@ -430,78 +388,6 @@
         "Withdrawal": "342.23",
         "Balance": "568.46",
         "id": "27"
-    },
-    {
-        "Date": "2023-02-05T12:57:35.585Z",
-        "Description": "withdrawal transaction at Hoeger Inc using card ending with ***(...3182) for WST 988.12 in account ***18507061",
-        "Deposit": "547.34",
-        "Withdrawal": "24.96",
-        "Balance": "642.10",
-        "id": "28"
-    },
-    {
-        "Date": "2023-02-06T05:16:37.224Z",
-        "Description": "payment transaction at Kihn, Corkery and Kerluke using card ending with ***(...7302) for MGA 842.02 in account ***22731218",
-        "Deposit": "256.75",
-        "Withdrawal": "458.54",
-        "Balance": "634.93",
-        "id": "29"
-    },
-    {
-        "Date": "2023-02-05T15:11:14.758Z",
-        "Description": "invoice transaction at Kiehn LLC using card ending with ***(...8722) for YER 816.55 in account ***69023857",
-        "Deposit": "184.39",
-        "Withdrawal": "217.95",
-        "Balance": "620.84",
-        "id": "30"
-    },
-    {
-        "Date": "2023-02-05T09:52:15.811Z",
-        "Description": "withdrawal transaction at Christiansen - Kohler using card ending with ***(...3840) for PEN 802.90 in account ***63459753",
-        "Deposit": "187.40",
-        "Withdrawal": "591.47",
-        "Balance": "544.42",
-        "id": "31"
-    },
-    {
-        "Date": "2023-02-05T21:28:17.288Z",
-        "Description": "payment transaction at Kohler, Mraz and Gutmann using card ending with ***(...7220) for PLN 220.92 in account ***86620317",
-        "Deposit": "648.79",
-        "Withdrawal": "641.27",
-        "Balance": "753.60",
-        "id": "32"
-    },
-    {
-        "Date": "2023-02-05T17:54:49.657Z",
-        "Description": "payment transaction at Herzog LLC using card ending with ***(...9837) for NAD 695.41 in account ***51357885",
-        "Deposit": "619.92",
-        "Withdrawal": "957.15",
-        "Balance": "5.67",
-        "id": "33"
-    },
-    {
-        "Date": "2023-02-05T22:32:11.222Z",
-        "Description": "payment transaction at McDermott LLC using card ending with ***(...5107) for ZAR 46.44 in account ***18382633",
-        "Deposit": "749.55",
-        "Withdrawal": "375.41",
-        "Balance": "912.24",
-        "id": "34"
-    },
-    {
-        "Date": "2023-02-05T18:52:58.924Z",
-        "Description": "invoice transaction at Bailey Group using card ending with ***(...0742) for MMK 883.69 in account ***11712373",
-        "Deposit": "424.54",
-        "Withdrawal": "396.00",
-        "Balance": "820.25",
-        "id": "35"
-    },
-    {
-        "Date": "2023-02-06T07:18:46.895Z",
-        "Description": "payment transaction at Fisher and Sons using card ending with ***(...6474) for BIF 908.51 in account ***66499210",
-        "Deposit": "863.37",
-        "Withdrawal": "739.18",
-        "Balance": "702.47",
-        "id": "36"
     },
 
 ]

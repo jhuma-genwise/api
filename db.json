@@ -1,80 +1,265 @@
 {
   "banks": {
     "payload": [
-        {
-            "bank_name": "FINANCE SHARE BANK",
-            "bank_code": "FINSHAREBANK",
-            "icon_url": "https://www.google.com/"
-        },
-        {
-            "bank_name": "HDFC BANK",
-            "bank_code": "HDFCBANK",
-            "icon_url": "https://www.google.com/"
-        },
-        {
-            "bank_name": "ICICI BANK",
-            "bank_code": "ICICIBANK",
-            "icon_url": "https://www.google.com/"
-        },
-        {
-            "bank_name": "SBI BANK",
-            "bank_code": "SBI",
-            "icon_url": "https://www.google.com/"
-        }
+      {
+        "bank_name": "FINANCE SHARE BANK",
+        "bank_code": "FINSHAREBANK",
+        "icon_url": "https://www.google.com/"
+      },
+      {
+        "bank_name": "HDFC BANK",
+        "bank_code": "HDFCBANK",
+        "icon_url": "https://www.google.com/"
+      },
+      {
+        "bank_name": "ICICI BANK",
+        "bank_code": "ICICIBANK",
+        "icon_url": "https://www.google.com/"
+      },
+      {
+        "bank_name": "SBI BANK",
+        "bank_code": "SBI",
+        "icon_url": "https://www.google.com/"
+      }
     ]
-},
-  "account":
-{
+  },
+  "account": {
     "payload": {
-        "total_balance": 0.0,
-        "customer_name": ""
+      "total_balance": 0.0,
+      "customer_name": ""
     },
     "meta": {
-        "next_action": "FIRST_TIME_USER_SCREEN"
+      "next_action": "FIRST_TIME_USER_SCREEN"
     }
-},
+  },
   "sdk": {
     "payload": {
-        "consent_id": 1,
-        "tracking_id": "3c6f6a252ade4408b88641649e16aadc",
-        "organisation_id": "NDX_P2P_UAT",
-        "mobile": "918826639105",
-        "organisation_bank_code": "SBI"
+      "consent_id": 1,
+      "tracking_id": "3c6f6a252ade4408b88641649e16aadc",
+      "organisation_id": "NDX_P2P_UAT",
+      "mobile": "918826639105",
+      "organisation_bank_code": "SBI"
     }
-},
+  },
   "statement": {
-    "payload: [
-        { Date: '2023-01-01', Description: 'Deposit', Deposit: 1000, Withdrawal: 0, Balance: 1000 },
-        { Date: '2023-01-02', Description: 'Transfer to savings', Deposit: 0, Withdrawal: 500, Balance: 500 },
-        { Date: '2023-01-03', Description: 'Grocery purchase', Deposit: 0, Withdrawal: 100, Balance: 400 },
-        { Date: '2023-01-04', Description: 'Deposit', Deposit: 1000, Withdrawal: 0, Balance: 1000 },
-        { Date: '2023-01-05', Description: 'Transfer to savings', Deposit: 0, Withdrawal: 500, Balance: 500 },
-        { Date: '2023-01-06', Description: 'Grocery purchase', Deposit: 0, Withdrawal: 100, Balance: 400 },
-        { Date: '2023-01-07', Description: 'Deposit', Deposit: 1000, Withdrawal: 0, Balance: 1000 },
-        { Date: '2023-01-08', Description: 'Transfer to savings', Deposit: 0, Withdrawal: 500, Balance: 500 },
-        { Date: '2023-01-09', Description: 'Grocery purchase', Deposit: 0, Withdrawal: 100, Balance: 400 },
-        { Date: '2023-01-10', Description: 'Deposit', Deposit: 1000, Withdrawal: 0, Balance: 1000 },
-        { Date: '2023-01-11', Description: 'Transfer to savings', Deposit: 0, Withdrawal: 500, Balance: 500 },
-        { Date: '2023-01-12', Description: 'Grocery purchase', Deposit: 0, Withdrawal: 100, Balance: 400 },
-        { Date: '2023-01-13', Description: 'Deposit', Deposit: 1000, Withdrawal: 0, Balance: 1000 },
-        { Date: '2023-01-14', Description: 'Transfer to savings', Deposit: 0, Withdrawal: 500, Balance: 500 },
-        { Date: '2023-01-15', Description: 'Grocery purchase', Deposit: 0, Withdrawal: 100, Balance: 400 },
-        { Date: '2023-01-16', Description: 'Deposit', Deposit: 1000, Withdrawal: 0, Balance: 1000 },
-        { Date: '2023-01-17', Description: 'Transfer to savings', Deposit: 0, Withdrawal: 500, Balance: 500 },
-        { Date: '2023-01-18', Description: 'Grocery purchase', Deposit: 0, Withdrawal: 100, Balance: 400 },
-        { Date: '2023-01-19', Description: 'Deposit', Deposit: 1000, Withdrawal: 0, Balance: 1000 },
-        { Date: '2023-01-20', Description: 'Transfer to savings', Deposit: 0, Withdrawal: 500, Balance: 500 },
-        { Date: '2023-01-21', Description: 'Grocery purchase', Deposit: 0, Withdrawal: 100, Balance: 400 },
-        { Date: '2023-01-22', Description: 'Deposit', Deposit: 1000, Withdrawal: 0, Balance: 1000 },
-        { Date: '2023-01-23', Description: 'Transfer to savings', Deposit: 0, Withdrawal: 500, Balance: 500 },
-        { Date: '2023-01-24', Description: 'Grocery purchase', Deposit: 0, Withdrawal: 100, Balance: 400 },
-        { Date: '2023-01-25', Description: 'Deposit', Deposit: 1000, Withdrawal: 0, Balance: 1000 },
-        { Date: '2023-01-26', Description: 'Transfer to savings', Deposit: 0, Withdrawal: 500, Balance: 500 },
-        { Date: '2023-01-27', Description: 'Grocery purchase', Deposit: 0, Withdrawal: 100, Balance: 400 },
-        { Date: '2023-01-28', Description: 'Deposit', Deposit: 1000, Withdrawal: 0, Balance: 1000 },
-        { Date: '2023-01-29', Description: 'Transfer to savings', Deposit: 0, Withdrawal: 500, Balance: 500 },
-        { Date: '2023-01-30', Description: 'Grocery purchase', Deposit: 0, Withdrawal: 100, Balance: 400 },
-        { Date: '2023-01-31', Description: 'Deposit', Deposit: 1000, Withdrawal: 0, Balance: 1000 },
+    "payload": [
+      {
+        "Date": "2023-01-02",
+        "Description": "Transfer to savings",
+        "Deposit": 0,
+        "Withdrawal": 500,
+        "Balance": 500
+      },
+      {
+        "Date": "2023-01-03",
+        "Description": "Grocery purchase",
+        "Deposit": 0,
+        "Withdrawal": 100,
+        "Balance": 400
+      },
+      {
+        "Date": "2023-01-04",
+        "Description": "Deposit",
+        "Deposit": 1000,
+        "Withdrawal": 0,
+        "Balance": 1000
+      },
+      {
+        "Date": "2023-01-05",
+        "Description": "Transfer to savings",
+        "Deposit": 0,
+        "Withdrawal": 500,
+        "Balance": 500
+      },
+      {
+        "Date": "2023-01-06",
+        "Description": "Grocery purchase",
+        "Deposit": 0,
+        "Withdrawal": 100,
+        "Balance": 400
+      },
+      {
+        "Date": "2023-01-01",
+        "Description": "Deposit",
+        "Deposit": 1000,
+        "Withdrawal": 0,
+        "Balance": 1000
+      },
+      {
+        "Date": "2023-01-07",
+        "Description": "Deposit",
+        "Deposit": 1000,
+        "Withdrawal": 0,
+        "Balance": 1000
+      },
+      {
+        "Date": "2023-01-08",
+        "Description": "Transfer to savings",
+        "Deposit": 0,
+        "Withdrawal": 500,
+        "Balance": 500
+      },
+      {
+        "Date": "2023-01-09",
+        "Description": "Grocery purchase",
+        "Deposit": 0,
+        "Withdrawal": 100,
+        "Balance": 400
+      },
+      {
+        "Date": "2023-01-10",
+        "Description": "Deposit",
+        "Deposit": 1000,
+        "Withdrawal": 0,
+        "Balance": 1000
+      },
+      {
+        "Date": "2023-01-11",
+        "Description": "Transfer to savings",
+        "Deposit": 0,
+        "Withdrawal": 500,
+        "Balance": 500
+      },
+      {
+        "Date": "2023-01-12",
+        "Description": "Grocery purchase",
+        "Deposit": 0,
+        "Withdrawal": 100,
+        "Balance": 400
+      },
+      {
+        "Date": "2023-01-13",
+        "Description": "Deposit",
+        "Deposit": 1000,
+        "Withdrawal": 0,
+        "Balance": 1000
+      },
+      {
+        "Date": "2023-01-14",
+        "Description": "Transfer to savings",
+        "Deposit": 0,
+        "Withdrawal": 500,
+        "Balance": 500
+      },
+      {
+        "Date": "2023-01-15",
+        "Description": "Grocery purchase",
+        "Deposit": 0,
+        "Withdrawal": 100,
+        "Balance": 400
+      },
+      {
+        "Date": "2023-01-16",
+        "Description": "Deposit",
+        "Deposit": 1000,
+        "Withdrawal": 0,
+        "Balance": 1000
+      },
+      {
+        "Date": "2023-01-17",
+        "Description": "Transfer to savings",
+        "Deposit": 0,
+        "Withdrawal": 500,
+        "Balance": 500
+      },
+      {
+        "Date": "2023-01-18",
+        "Description": "Grocery purchase",
+        "Deposit": 0,
+        "Withdrawal": 100,
+        "Balance": 400
+      },
+      {
+        "Date": "2023-01-19",
+        "Description": "Deposit",
+        "Deposit": 1000,
+        "Withdrawal": 0,
+        "Balance": 1000
+      },
+      {
+        "Date": "2023-01-20",
+        "Description": "Transfer to savings",
+        "Deposit": 0,
+        "Withdrawal": 500,
+        "Balance": 500
+      },
+      {
+        "Date": "2023-01-21",
+        "Description": "Grocery purchase",
+        "Deposit": 0,
+        "Withdrawal": 100,
+        "Balance": 400
+      },
+      {
+        "Date": "2023-01-22",
+        "Description": "Deposit",
+        "Deposit": 1000,
+        "Withdrawal": 0,
+        "Balance": 1000
+      },
+      {
+        "Date": "2023-01-23",
+        "Description": "Transfer to savings",
+        "Deposit": 0,
+        "Withdrawal": 500,
+        "Balance": 500
+      },
+      {
+        "Date": "2023-01-24",
+        "Description": "Grocery purchase",
+        "Deposit": 0,
+        "Withdrawal": 100,
+        "Balance": 400
+      },
+      {
+        "Date": "2023-01-25",
+        "Description": "Deposit",
+        "Deposit": 1000,
+        "Withdrawal": 0,
+        "Balance": 1000
+      },
+      {
+        "Date": "2023-01-26",
+        "Description": "Transfer to savings",
+        "Deposit": 0,
+        "Withdrawal": 500,
+        "Balance": 500
+      },
+      {
+        "Date": "2023-01-27",
+        "Description": "Grocery purchase",
+        "Deposit": 0,
+        "Withdrawal": 100,
+        "Balance": 400
+      },
+      {
+        "Date": "2023-01-28",
+        "Description": "Deposit",
+        "Deposit": 1000,
+        "Withdrawal": 0,
+        "Balance": 1000
+      },
+      {
+        "Date": "2023-01-29",
+        "Description": "Transfer to savings",
+        "Deposit": 0,
+        "Withdrawal": 500,
+        "Balance": 500
+      },
+      {
+        "Date": "2023-01-30",
+        "Description": "Grocery purchase",
+        "Deposit": 0,
+        "Withdrawal": 100,
+        "Balance": 400
+      },
+      {
+        "Date": "2023-01-31",
+        "Description": "Deposit",
+        "Deposit": 1000,
+        "Withdrawal": 0,
+        "Balance": 1000
+      }
     ]
   }
 }

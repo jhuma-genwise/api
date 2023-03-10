@@ -93,27 +93,6 @@
         "Balance": 1000
       },
       {
-        "Date": "2023-01-08",
-        "Description": "Transfer to savings",
-        "Deposit": 0,
-        "Withdrawal": 500,
-        "Balance": 500
-      },
-      {
-        "Date": "2023-01-09",
-        "Description": "Grocery purchase",
-        "Deposit": 0,
-        "Withdrawal": 100,
-        "Balance": 400
-      },
-      {
-        "Date": "2023-01-10",
-        "Description": "Deposit",
-        "Deposit": 1000,
-        "Withdrawal": 0,
-        "Balance": 1000
-      },
-      {
         "Date": "2023-01-11",
         "Description": "Transfer to savings",
         "Deposit": 0,
@@ -232,34 +211,6 @@
         "Withdrawal": 100,
         "Balance": 400
       },
-      {
-        "Date": "2023-01-28",
-        "Description": "Deposit",
-        "Deposit": 1000,
-        "Withdrawal": 0,
-        "Balance": 1000
-      },
-      {
-        "Date": "2023-01-29",
-        "Description": "Transfer to savings",
-        "Deposit": 0,
-        "Withdrawal": 500,
-        "Balance": 500
-      },
-      {
-        "Date": "2023-01-30",
-        "Description": "Grocery purchase",
-        "Deposit": 0,
-        "Withdrawal": 100,
-        "Balance": 400
-      },
-      {
-        "Date": "2023-01-31",
-        "Description": "Deposit",
-        "Deposit": 1000,
-        "Withdrawal": 0,
-        "Balance": 1000
-      }
     ]
   },
   "txn": {
@@ -552,118 +503,7 @@
         "Balance": "702.47",
         "id": "36"
     },
-    {
-        "Date": "2023-02-05T11:19:24.657Z",
-        "Description": "withdrawal transaction at Rodriguez, Labadie and Conn using card ending with ***(...5218) for SYP 542.54 in account ***52851653",
-        "Deposit": "504.83",
-        "Withdrawal": "11.56",
-        "Balance": "193.26",
-        "id": "37"
-    },
-    {
-        "Date": "2023-02-05T12:33:13.901Z",
-        "Description": "withdrawal transaction at Jacobs, Bednar and Tromp using card ending with ***(...4480) for MAD 166.51 in account ***33468526",
-        "Deposit": "623.10",
-        "Withdrawal": "938.12",
-        "Balance": "27.80",
-        "id": "38"
-    },
-    {
-        "Date": "2023-02-06T00:45:02.730Z",
-        "Description": "deposit transaction at Aufderhar, Kutch and Hilll using card ending with ***(...9966) for BTN 802.40 in account ***69960582",
-        "Deposit": "601.20",
-        "Withdrawal": "37.78",
-        "Balance": "134.63",
-        "id": "39"
-    },
-    {
-        "Date": "2023-02-05T11:29:18.421Z",
-        "Description": "invoice transaction at Abshire, King and Dicki using card ending with ***(...9604) for BMD 423.71 in account ***37914188",
-        "Deposit": "34.01",
-        "Withdrawal": "805.77",
-        "Balance": "784.90",
-        "id": "40"
-    },
-    {
-        "Date": "2023-02-05T13:38:48.754Z",
-        "Description": "payment transaction at Champlin Group using card ending with ***(...4766) for DOP 266.31 in account ***81155224",
-        "Deposit": "640.38",
-        "Withdrawal": "152.29",
-        "Balance": "702.89",
-        "id": "41"
-    },
-    {
-        "Date": "2023-02-05T18:23:50.621Z",
-        "Description": "invoice transaction at Hilpert - Mann using card ending with ***(...3349) for NOK 676.43 in account ***52217630",
-        "Deposit": "610.93",
-        "Withdrawal": "582.22",
-        "Balance": "784.57",
-        "id": "42"
-    },
-    {
-        "Date": "2023-02-06T08:29:19.698Z",
-        "Description": "deposit transaction at Roob - Bergnaum using card ending with ***(...9823) for HNL 669.24 in account ***59152310",
-        "Deposit": "205.16",
-        "Withdrawal": "27.95",
-        "Balance": "34.62",
-        "id": "43"
-    },
-    {
-        "Date": "2023-02-05T10:15:02.707Z",
-        "Description": "deposit transaction at Turner - Borer using card ending with ***(...5453) for ERN 813.84 in account ***06204140",
-        "Deposit": "361.66",
-        "Withdrawal": "249.78",
-        "Balance": "256.04",
-        "id": "44"
-    },
-    {
-        "Date": "2023-02-06T00:33:22.068Z",
-        "Description": "invoice transaction at Wintheiser Group using card ending with ***(...5285) for CHF 319.31 in account ***20873191",
-        "Deposit": "841.77",
-        "Withdrawal": "887.79",
-        "Balance": "264.77",
-        "id": "45"
-    },
-    {
-        "Date": "2023-02-05T19:58:24.658Z",
-        "Description": "deposit transaction at Wiegand Group using card ending with ***(...6714) for EGP 192.57 in account ***98289652",
-        "Deposit": "876.44",
-        "Withdrawal": "978.54",
-        "Balance": "276.98",
-        "id": "46"
-    },
-    {
-        "Date": "2023-02-06T04:38:12.066Z",
-        "Description": "payment transaction at Keebler, Bogan and Sporer using card ending with ***(...0751) for NAD 799.80 in account ***28758466",
-        "Deposit": "920.26",
-        "Withdrawal": "484.77",
-        "Balance": "924.35",
-        "id": "47"
-    },
-    {
-        "Date": "2023-02-06T04:08:13.101Z",
-        "Description": "payment transaction at Leffler - Osinski using card ending with ***(...2524) for LVL 978.68 in account ***98072878",
-        "Deposit": "867.92",
-        "Withdrawal": "70.53",
-        "Balance": "673.22",
-        "id": "48"
-    },
-    {
-        "Date": "2023-02-05T21:49:20.003Z",
-        "Description": "deposit transaction at Considine, Kshlerin and Witting using card ending with ***(...5111) for NIO 785.84 in account ***96754764",
-        "Deposit": "675.22",
-        "Withdrawal": "732.36",
-        "Balance": "674.10",
-        "id": "49"
-    },
-    {
-        "Date": "2023-02-06T08:42:38.121Z",
-        "Description": "invoice transaction at Terry, Cummerata and Metz using card ending with ***(...1633) for LBP 832.77 in account ***29082103",
-        "Deposit": "141.80",
-        "Withdrawal": "711.17",
-        "Balance": "995.58",
-        "id": "50"
-    }
+
 ]
   }
 }

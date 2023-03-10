@@ -263,7 +263,7 @@
     ]
   },
   "txn": {
-[
+"payload": [
     {
         "Date": "2023-02-05T10:55:14.955Z",
         "Description": "withdrawal transaction at McClure - Kiehn using card ending with ***(...7474) for HNL 524.05 in account ***99817357",

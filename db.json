@@ -26,7 +26,18 @@
   "account": {
     "payload": {
       "total_balance": 234550.0,
-      "customer_name": ""
+      "customer_name": "",
+       "accounts_list": [
+            {
+                "account_id": "68",
+                "bank_name": "FINANCE SHARE BANK",
+                "bank_icon_url": "https://www.google.com/",
+                "branch_name": "Jayanagar 4th Block",
+                "ifsc_code": "ICIC0001124",
+                "account_number": "XXXXXXXX1700",
+                "account_balance": 184251.82
+            }
+        ]
     },
     "meta": {
       "next_action": "FIRST_TIME_USER_SCREEN"
